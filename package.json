@@ -1,0 +1,14 @@
+{
+  "name": "ttnwebjob",
+  "version": "1.0.0",
+  "description": "TTN WebJob",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Robinson <tom@tjrobinson.net>",
+  "license": "ISC",
+  "dependencies": {
+    "ttn-azure-iothub": "^0.2.1"
+  }
+}
